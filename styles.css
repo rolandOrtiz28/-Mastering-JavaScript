@@ -75,3 +75,14 @@ background-color: #0cff45;
   font-size: 24px;
   text-align: center;
 }
+
+.answerkey{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.answerkey ul li{
+font-size: 15px;
+}
